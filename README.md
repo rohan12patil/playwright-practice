@@ -1,12 +1,11 @@
 # Playwright Practice App
 
-This is the practice repo for Learning Playwright & its best practices.
+This is the practice repo for Practising Learning Playwright & its best practices.
 
-#### Ngx-Admin Angular 14 application from akveo.com
+Its a Dashboard application which is hosted at  https://dashboard-automation.netlify.app/
 
-This is modified and more lightweight version of original application to practice UI Automation with Playwright.
 
-The original repo for dashboard is here: https://github.com/akveo/ngx-admin
+
 
 ##
 
